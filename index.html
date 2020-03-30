@@ -1,0 +1,467 @@
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="parallax"></div>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+ 
+ <title>
+
+  Gender Equality
+
+ </title>
+
+<style>
+
+.parallax {
+  
+  background-image: url(photo1.jpg);
+
+  /* Set a specific height */
+  height: 900px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+
+}
+
+.phto{
+ height:120px;
+ width:120px
+}
+
+.texto{
+ font-family: arial;
+ background-color: gray;
+ padding: 16px 32px;
+ border: 2px;
+ background: -webkit-linear-gradient(#F08080, #B03060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60;
+}
+
+.texto2{
+ font-family: arial;
+ background-color: gray;
+ padding: 16px 32px;
+ border: 2px;
+ background: -webkit-linear-gradient(#f442a4, #424ef7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24;
+}
+
+.button {
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {opacity: 1}
+
+
+.photo2{
+ height: 150;
+ width: 150;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #000000;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 15px;
+  background-color: black;
+  padding: 50px;
+}
+
+.grid-container > div {
+  background-color: black;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 30px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 400px;
+  height: 400px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: black;
+  color: black;
+  transform: rotateY(180deg);
+}
+    
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.main {
+  padding: 16px;
+  margin-bottom: 30px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100% ; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  height: 35%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+    
+.butn {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.butn:hover {opacity: 1}
+    
+ .text1{
+     width = 200px;   
+ }
+    
+ .td1{ 
+      width: 300px; 
+     height: 20px;
+      text-align: left; 
+      padding-left: 100px;
+      padding-top: 5px;
+      }
+ .td2{
+      width: 300px; 
+      height: 20px;
+      text-align: left; 
+      padding-top: 5px;
+    }
+    .textx{
+        font-size: 120px;
+        font-family: Arial;
+        text-align: left;
+        padding-top: 50px;
+        transform: scale(.6, 1);
+         background: -webkit-linear-gradient(#F08080, #B03060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        
+    }
+    .texty{
+        font-family: Arial;
+        color: white;
+    }
+
+</style>
+
+<script>
+
+</script> 
+
+</head>
+
+<body>
+
+ <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">
+ <img src="download-2.png" class="phto">
+ </a>
+
+ <table align="right" >
+
+ <tr>
+
+ <td>
+
+ <a href="project2.html"><input type = "button" class = "button" value = "Home"></a>
+
+ </td>
+
+ <td>
+
+ <a href="project3.html"><input type = "button" class = "button" value = "Game"></a>
+
+ </td>
+
+ <td>
+
+ <a href="project4.html"><input type = "button" style = "width:150px" class = "button" value = "Goal 1.2.1"></a> 
+
+ </td> 
+
+ </tr>
+
+ </table>
+
+ <center><h1 class = texto> SDG of No Poverty </h1></center>
+    
+ <div class="grid-container">
+  <div>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="download-6.jpg" alt="Avatar" style="width:400px;height:400px;">
+        </div>
+        <div class="flip-card-back">
+          <text class = textx> 2.6% </text>
+          <p class = texty>is the percent of the population who live on less than 2$ per day</p> 
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="download-6.jpg" alt="Avatar" style="width:400px;height:400px;">
+        </div>
+        <div class="flip-card-back">
+            <text class = textx> 11.5% </text>
+          <p class = texty>is the percent of the population below the international poverty line</p> 
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="download-6.jpg" alt="Avatar" style="width:400px;height:400px;">
+        </div>
+        <div class="flip-card-back">
+          <text class = textx> 46% </text>
+          <p class = texty>is the percent of the population who live in financial instability which is equivalent to under 2000$ a year</p> 
+        </div>
+      </div>
+    </div>
+  </div>  
+ </div>
+
+ <br>
+ <br>
+ <br>
+    
+<div class="navbar">
+  <center><button id = myBtn class = butn>About and Contact</button></center>
+</div>
+    
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+<div class="modal-content">
+      
+    <span class="close">&times;</span>
+    
+    <table>
+    <tr>
+    <td>
+    <h2>Joshua Bougadis</h2>
+    <h4> About </h4>
+      <p class = "text1"> My name is Joshua Bougadis and I am 14 years old. I was born on June 3, 2005 in toronto, and I currently am within grade 9 at Upper Canada College in toronto. Some of my interests include hockey, piano, and mathematics. This project is intended for my coding class TDJ2O, and was created to inform teenagers between age 12-18 about UN SDG 1.</p>
+    
+    <h4> Contact </h4>
+    <table>
+        <tr>
+            <td class = "td2">
+                <p> Email: joshua.bougadis@ucc.on.ca </p>
+            </td>
+            <td class = "td1">
+                <p> Cell: 6475498693 </p>
+            </td>
+        </tr>
+        <tr>
+            <td class = "td2">
+                <p> Instagram: joshua.bougadis </p>
+            </td>
+            <td class = "td1">
+                <p> Gameof5: JOSHUA BOUGADIS </p>
+            </td>
+        </tr>
+    </table>
+    </td>
+    <td>
+            
+    <img src="joshua.png" alt="Avatar" width = 200px height = 200px align = "right" padding-right: 100px;>
+    
+    </td>
+    </tr>
+    </table>
+    
+  </div>
+
+</div>
+    
+<!-- The Modal -->
+<div id="myModal2" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+
+</div>
+    
+<script>
+  
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+    
+</script>
+
+</body> 
+
+</html>

@@ -1,0 +1,456 @@
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="parallax"></div>
+
+ 
+ <title>
+
+  Gender Equality
+
+ </title>
+
+<style>
+    .phto{
+        height:120px;
+        width:120px
+    }
+
+    .texto{
+     font-family: arial;
+     background-color: gray;
+     padding: 16px 32px;
+     border: 2px;
+     background: -webkit-linear-gradient(#F08080, #B03060);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 60;
+    }
+    
+    .texto2{
+     font-family: arial;
+     background-color: gray;
+     padding: 16px 32px;
+     border: 2px;
+     background: -webkit-linear-gradient(#F08080, #B03060);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 32;
+    }
+    
+    .atexto2{
+     font-family: arial;
+     background-color: gray;
+     padding: 16px 32px;
+     border: 2px;
+     background: -webkit-linear-gradient(blue, lightblue);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 32;
+    }
+    
+    .text69{
+        font-family: arial;
+        color: white;
+        font-size: 32;
+    }
+    
+    .button {
+      background-color: #f4511e;
+      border: none;
+      color: white;
+      padding: 30px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .button:hover {opacity: 1}
+    
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #000000;
+    }
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 300px;
+  height: 300px;
+  color: black; 
+  background-color: white;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+</style>
+</head>
+    
+<script src = "project.json"></script>
+
+<body>
+    
+    <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">
+ <img src="download-2.png" class="phto">
+ </a>
+
+ <table align="right" >
+
+ <tr>
+
+ <td>
+
+ <a href="project2.html"><input type = "button" class = "button" value = "Home"></a>
+
+ </td>
+
+ <td>
+
+ <a href="project3.html"><input type = "button" class = "button" value = "Game"></a>
+
+ </td>
+
+ <td>
+
+ <a href="project4.html"><input type = "button" style = "width:150px" class = "button" value = "Goal 1.2.1"></a> 
+
+ </td> 
+
+ </tr>
+
+ </table>
+
+ <center><h1 class = texto> SDG 1.2.1  </h1></center>
+    
+    <br>
+<table>
+<tr>
+<td>   
+<center><h1 class = texto2> Enter name of country  to receive statistics</h1></center>
+    
+<center><input style="font-size:32px" type="text" id="mysearch"  required minlength="4" maxlength="15" size="30"></center>
+
+<br>
+
+<center><button onclick = "goSearch()" class = butto69> Submit </button></center>
+    
+<!--<center><h3 id = "results" class = text69></h3></center> -->
+    
+<center>><div class="card">
+  <img src="download-9.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4 id = name><b></b></h4> 
+    <p id = "results2"></p> 
+  </div>
+</div></center>
+
+</td>
+-----------
+<td>   
+<center><h1 class = atexto2> Enter name of another country  to receive statistics</h1></center>
+    
+<center><input style="font-size:32px" type="text" id="!mysearch"  required minlength="4" maxlength="15" size="30"></center>
+
+<br>
+
+<center><button onclick = "xgoSearch()" class = butto69> Submit </button></center>
+    
+<!--<center><h3 id = "results" class = text69></h3></center> -->
+    
+<center>><div class="card">
+  <img src="download-7.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4 id = !name><b></b></h4> 
+    <p id = "!results2"></p> 
+  </div>
+</div></center>
+
+</td>
+</tr>
+</table>
+
+<center><table>
+<tr>
+<td>
+<center><button onclick = "myFuncto()"> appear </button></center>  
+</td>
+<td>
+ <center><button onclick = "myFuncto2()"> disappear </button></center>   
+</td>
+</tr>
+</table></center>
+  
+<center><h3 id = myh3 style="font-size:32px;color:white"> </h3></center>
+    
+<center><canvas id = "mycanvas" width = "1000px" height = "300px"> </canvas></center>
+    
+
+    
+</body>
+    
+<script>
+    
+    function goSearch(){
+        var myinput = document.getElementById("mysearch").value;
+        //var resultsdiv = document.getElementById("results");
+        var resultsdiv2 = document.getElementById("results2");
+        var namediv = document.getElementById("name");
+        var hard = "There is no given data for this country"
+        var newstring = ""
+        var name = " "
+        name = myinput
+        var c = document.getElementById("mycanvas");
+        var ctx = c.getContext("2d");
+        for(country = 0; country < data.length; country++){
+            if(myinput == data[country].GeoAreaName) {
+                if(data[country].TimePeriod == 2017){ 
+                hard = ""
+                hard = hard  + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                } else if (data[country].TimePeriod == 2016){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2015){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2014){   
+                hard = ""
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2013){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2012){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2011){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2010){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2009){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2008){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2007){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2006){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2005){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2004){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2003){   
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                name = name + data[country].GeoAreaName;
+                hard = ""
+                break;
+                }else if (data[country].TimePeriod == 2002){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2001){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2000){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }
+            }
+        }
+         resultsdiv2.innerHTML = newstring;
+         alert(hard);
+         namediv.innerHTML = name;
+         ctx.fillStyle = "red"
+         ctx.fillRect(180,10, hard*10,50);
+         ctx.font = "30px Arial";
+         ctx.fillText(name,10,45)
+         ctx.fillText(hard + "%",hard*10 +200,45)
+    }
+    
+  function xgoSearch(){
+        var myinput = document.getElementById("!mysearch").value;
+        //var resultsdiv = document.getElementById("results");
+        var resultsdiv2 = document.getElementById("!results2");
+        var namediv = document.getElementById("!name");
+        var hard = ""
+        var newstring = ""
+        var name = ""
+        name = myinput
+        var c = document.getElementById("mycanvas");
+        var ctx = c.getContext("2d");
+        for(country = 0; country < data.length; country++){
+            if(myinput == data[country].GeoAreaName) {
+                if(data[country].TimePeriod == 2017){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                } else if (data[country].TimePeriod == 2016){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2015){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2014){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2013){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2012){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2011){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2010){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2009){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2008){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2007){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2006){ 
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2005){
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2004){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2003){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2002){  
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2001){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }else if (data[country].TimePeriod == 2000){   
+                hard = ""
+                hard = hard + data[country].Value;
+                newstring = newstring + "The country of " + data[country].GeoAreaName + " has a poverty rate of " + data[country].Value + "%";
+                break;
+                }
+            }
+        }
+         resultsdiv2.innerHTML = newstring;
+         alert(hard);
+         namediv.innerHTML = name;
+         ctx.fillStyle = "blue"
+         ctx.fillRect(180,80, hard*10,50);
+         ctx.font = "30px Arial";
+         ctx.fillText(name,10,115)
+         ctx.fillText(hard + "%",hard*10 +200,115)
+    }
+    
+    function myFuncto(){
+        var theinput = document.getElementById("myh3");
+        theinput.innerHTML = "This data shows above only functions for countries with a percentage of people living below the international poverty line. If no data appears then 0% or a negligible amount of the given population in that country lives below the international poverty line. Also, the international poverty line is under $1.25 USD per day. ";
+    }
+    
+    function myFuncto2() {
+        var theinput2 = document.getElementById("myh3");
+        theinput2.innerHTML = "";
+        }
+    
+   
+    
+
+    
+
+
+    
+</script> 
+ 
+</html>

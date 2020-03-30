@@ -1,0 +1,4226 @@
+data = [
+  {
+    "GeoAreaName": "Afghanistan",
+    "TimePeriod": 2016,
+    "Value": 54.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Afghanistan",
+    "TimePeriod": 2011,
+    "Value": 38.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Afghanistan",
+    "TimePeriod": 2007,
+    "Value": 33.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2012,
+    "Value": 14.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2008,
+    "Value": 12.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2005,
+    "Value": 18.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2002,
+    "Value": 25.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Algeria",
+    "TimePeriod": 2011,
+    "Value": 5.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Angola",
+    "TimePeriod": 2008,
+    "Value": 36.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2017,
+    "Value": 25.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2016,
+    "Value": 30.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2017,
+    "Value": 25.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2016,
+    "Value": 29.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2015,
+    "Value": 29.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2014,
+    "Value": 30,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2013,
+    "Value": 32,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2012,
+    "Value": 32.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2011,
+    "Value": 35,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2010,
+    "Value": 35.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2009,
+    "Value": 34.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2008,
+    "Value": 27.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2007,
+    "Value": 26.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2006,
+    "Value": 30.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2005,
+    "Value": 40.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2004,
+    "Value": 53.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2012,
+    "Value": 6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2011,
+    "Value": 7.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2010,
+    "Value": 9.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2009,
+    "Value": 10.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2008,
+    "Value": 13.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2007,
+    "Value": 15.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2001,
+    "Value": 49.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2016,
+    "Value": 24.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2010,
+    "Value": 31.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2005,
+    "Value": 40,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2000,
+    "Value": 48.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2017,
+    "Value": 5.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2016,
+    "Value": 5.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2015,
+    "Value": 5.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2014,
+    "Value": 4.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2013,
+    "Value": 5.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2012,
+    "Value": 6.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2011,
+    "Value": 7.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2010,
+    "Value": 5.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2009,
+    "Value": 5.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2008,
+    "Value": 6.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2007,
+    "Value": 7.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2006,
+    "Value": 11.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2005,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2004,
+    "Value": 17.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2003,
+    "Value": 27.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2002,
+    "Value": 30.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2001,
+    "Value": 28.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2000,
+    "Value": 41.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2015,
+    "Value": 40.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2011,
+    "Value": 36.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2010,
+    "Value": 35.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2007,
+    "Value": 33,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2006,
+    "Value": 37.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2017,
+    "Value": 8.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2012,
+    "Value": 12,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2007,
+    "Value": 23.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2017,
+    "Value": 36.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2016,
+    "Value": 39.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2015,
+    "Value": 38.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2014,
+    "Value": 39.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2013,
+    "Value": 38.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2012,
+    "Value": 43.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2011,
+    "Value": 45.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2009,
+    "Value": 51.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2008,
+    "Value": 57.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2007,
+    "Value": 60.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2006,
+    "Value": 59.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2005,
+    "Value": 59.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2004,
+    "Value": 63.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2015,
+    "Value": 16.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2011,
+    "Value": 17.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2007,
+    "Value": 18.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2009,
+    "Value": 19.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2002,
+    "Value": 30.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2017,
+    "Value": 26.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2016,
+    "Value": 25.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2016,
+    "Value": 23.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2015,
+    "Value": 22.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2014,
+    "Value": 22,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2013,
+    "Value": 21.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2012,
+    "Value": 21,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2011,
+    "Value": 21.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2010,
+    "Value": 22.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2009,
+    "Value": 20.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2008,
+    "Value": 21.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2007,
+    "Value": 21.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2006,
+    "Value": 22,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2005,
+    "Value": 18.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2002,
+    "Value": 14,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2001,
+    "Value": 16,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2000,
+    "Value": 14,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2014,
+    "Value": 40.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2009,
+    "Value": 46.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2003,
+    "Value": 51.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2014,
+    "Value": 64.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2013,
+    "Value": 64.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2006,
+    "Value": 67.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2015,
+    "Value": 35,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2007,
+    "Value": 46,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2001,
+    "Value": 58,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2012,
+    "Value": 17.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2011,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2010,
+    "Value": 22.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2009,
+    "Value": 23.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2008,
+    "Value": 34,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2006,
+    "Value": 45,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cambodia",
+    "TimePeriod": 2003,
+    "Value": 50.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2014,
+    "Value": 37.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2007,
+    "Value": 39.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2001,
+    "Value": 40.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Central African Republic",
+    "TimePeriod": 2008,
+    "Value": 62,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2011,
+    "Value": 46.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2002,
+    "Value": 54.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2017,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2015,
+    "Value": 11.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2013,
+    "Value": 14.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2011,
+    "Value": 22.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2009,
+    "Value": 25.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2006,
+    "Value": 29.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2003,
+    "Value": 35.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2000,
+    "Value": 36,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2017,
+    "Value": 3.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2016,
+    "Value": 4.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2015,
+    "Value": 5.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2014,
+    "Value": 7.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2013,
+    "Value": 8.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2012,
+    "Value": 10.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2011,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2010,
+    "Value": 17.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2018,
+    "Value": 27,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2017,
+    "Value": 26.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2016,
+    "Value": 28,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2015,
+    "Value": 27.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2014,
+    "Value": 28.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2013,
+    "Value": 30.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2012,
+    "Value": 32.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2011,
+    "Value": 34.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2010,
+    "Value": 37.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2009,
+    "Value": 40.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2008,
+    "Value": 42,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Comoros",
+    "TimePeriod": 2013,
+    "Value": 42.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2011,
+    "Value": 46.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2004,
+    "Value": 50.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2017,
+    "Value": 20,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2016,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2015,
+    "Value": 21.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2014,
+    "Value": 22.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2013,
+    "Value": 20.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2012,
+    "Value": 20.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2011,
+    "Value": 21.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2010,
+    "Value": 21.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2015,
+    "Value": 46.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2008,
+    "Value": 48.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2002,
+    "Value": 38.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2015,
+    "Value": 19.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2014,
+    "Value": 20,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2013,
+    "Value": 19.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2012,
+    "Value": 19.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2011,
+    "Value": 20.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2010,
+    "Value": 20.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2009,
+    "Value": 20.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2013,
+    "Value": 9.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2012,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2011,
+    "Value": 9.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2010,
+    "Value": 9.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2009,
+    "Value": 9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2008,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2007,
+    "Value": 9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2006,
+    "Value": 9.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2005,
+    "Value": 9.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2004,
+    "Value": 10.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2012,
+    "Value": 63.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2004,
+    "Value": 69.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2017,
+    "Value": 21.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2016,
+    "Value": 30.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2015,
+    "Value": 32.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2014,
+    "Value": 36.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2013,
+    "Value": 41.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2012,
+    "Value": 41,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2011,
+    "Value": 40.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2010,
+    "Value": 41.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2009,
+    "Value": 42.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2008,
+    "Value": 44.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2007,
+    "Value": 43.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2006,
+    "Value": 44.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2005,
+    "Value": 47.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2004,
+    "Value": 49.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2003,
+    "Value": 41.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2002,
+    "Value": 32.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2001,
+    "Value": 32.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2000,
+    "Value": 32.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2018,
+    "Value": 23.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2017,
+    "Value": 21.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2016,
+    "Value": 22.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2015,
+    "Value": 23.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2014,
+    "Value": 22.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2013,
+    "Value": 25.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2012,
+    "Value": 27.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2011,
+    "Value": 28.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2010,
+    "Value": 32.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2009,
+    "Value": 36,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2008,
+    "Value": 35.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2007,
+    "Value": 36.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2015,
+    "Value": 27.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2012,
+    "Value": 26.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2010,
+    "Value": 25.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2008,
+    "Value": 21.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2004,
+    "Value": 19.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2017,
+    "Value": 29.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2016,
+    "Value": 32.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2015,
+    "Value": 34.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2014,
+    "Value": 31.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2013,
+    "Value": 29.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2012,
+    "Value": 34.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2011,
+    "Value": 40.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2010,
+    "Value": 36.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2009,
+    "Value": 37.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2008,
+    "Value": 40,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2007,
+    "Value": 34.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Equatorial Guinea",
+    "TimePeriod": 2006,
+    "Value": 76.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2013,
+    "Value": 21.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Eswatini",
+    "TimePeriod": 2009,
+    "Value": 63,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Eswatini",
+    "TimePeriod": 2001,
+    "Value": 69,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2015,
+    "Value": 23.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2010,
+    "Value": 29.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2004,
+    "Value": 38.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2013,
+    "Value": 34,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2008,
+    "Value": 35.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2002,
+    "Value": 39.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2017,
+    "Value": 33.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2005,
+    "Value": 32.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2015,
+    "Value": 48.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2017,
+    "Value": 21.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2016,
+    "Value": 22,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2015,
+    "Value": 21.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2014,
+    "Value": 23.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2013,
+    "Value": 26.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2012,
+    "Value": 30,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2011,
+    "Value": 34.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2010,
+    "Value": 37.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2009,
+    "Value": 34.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2008,
+    "Value": 34.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2007,
+    "Value": 38.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2006,
+    "Value": 36.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2005,
+    "Value": 35.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2004,
+    "Value": 34.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2016,
+    "Value": 23.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2012,
+    "Value": 24.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2005,
+    "Value": 31.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2014,
+    "Value": 59.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2011,
+    "Value": 53.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2006,
+    "Value": 51,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2000,
+    "Value": 56,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2012,
+    "Value": 55.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2007,
+    "Value": 53,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2002,
+    "Value": 55.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guinea-Bissau",
+    "TimePeriod": 2010,
+    "Value": 69.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Guinea-Bissau",
+    "TimePeriod": 2002,
+    "Value": 64.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Haiti",
+    "TimePeriod": 2012,
+    "Value": 58.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2018,
+    "Value": 61.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2017,
+    "Value": 64.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2014,
+    "Value": 14.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2013,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2012,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2011,
+    "Value": 14.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2010,
+    "Value": 14.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2009,
+    "Value": 12.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2008,
+    "Value": 12.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2007,
+    "Value": 12.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2006,
+    "Value": 12.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2005,
+    "Value": 15.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2004,
+    "Value": 13.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2011,
+    "Value": 21.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2009,
+    "Value": 29.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2004,
+    "Value": 37.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2017,
+    "Value": 10.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2016,
+    "Value": 10.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2015,
+    "Value": 11.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2012,
+    "Value": 18.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2006,
+    "Value": 22.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2012,
+    "Value": 19.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2010,
+    "Value": 17.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2009,
+    "Value": 16.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2008,
+    "Value": 12.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2007,
+    "Value": 9.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2006,
+    "Value": 14.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2005,
+    "Value": 14.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2004,
+    "Value": 16.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2003,
+    "Value": 19.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2002,
+    "Value": 19.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2001,
+    "Value": 16.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2000,
+    "Value": 18.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2010,
+    "Value": 14.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2008,
+    "Value": 13.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2017,
+    "Value": 2.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2016,
+    "Value": 2.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2015,
+    "Value": 2.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2014,
+    "Value": 2.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2013,
+    "Value": 2.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2012,
+    "Value": 3.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2011,
+    "Value": 5.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2010,
+    "Value": 6.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2009,
+    "Value": 8.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2008,
+    "Value": 12.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2007,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2006,
+    "Value": 18.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2005,
+    "Value": 31.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2004,
+    "Value": 33.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2003,
+    "Value": 37.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2002,
+    "Value": 44.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2001,
+    "Value": 46.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2015,
+    "Value": 36.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2005,
+    "Value": 46.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kiribati",
+    "TimePeriod": 2006,
+    "Value": 21.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2017,
+    "Value": 25.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2016,
+    "Value": 25.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2015,
+    "Value": 32.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2014,
+    "Value": 30.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2013,
+    "Value": 37,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2012,
+    "Value": 38,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2011,
+    "Value": 36.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2010,
+    "Value": 33.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2009,
+    "Value": 31.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2008,
+    "Value": 31.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2007,
+    "Value": 35,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2006,
+    "Value": 39.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2012,
+    "Value": 23.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2007,
+    "Value": 27.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2002,
+    "Value": 33.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2014,
+    "Value": 22.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2013,
+    "Value": 21.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2012,
+    "Value": 19.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2011,
+    "Value": 19.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2010,
+    "Value": 19,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2009,
+    "Value": 20.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2008,
+    "Value": 26.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2007,
+    "Value": 25.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2006,
+    "Value": 21.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2005,
+    "Value": 23.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2004,
+    "Value": 19.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lebanon",
+    "TimePeriod": 2012,
+    "Value": 27.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2010,
+    "Value": 57.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2002,
+    "Value": 56.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2016,
+    "Value": 50.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2014,
+    "Value": 54.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2014,
+    "Value": 22.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2013,
+    "Value": 19.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2012,
+    "Value": 20.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2011,
+    "Value": 18.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2010,
+    "Value": 19.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2009,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2008,
+    "Value": 20.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2007,
+    "Value": 20.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2006,
+    "Value": 19.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2005,
+    "Value": 20,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2004,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2012,
+    "Value": 70.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2010,
+    "Value": 71.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2005,
+    "Value": 73.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2001,
+    "Value": 70.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2016,
+    "Value": 51.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2010,
+    "Value": 50.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2004,
+    "Value": 52.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2015,
+    "Value": 0.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2013,
+    "Value": 0.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2011,
+    "Value": 1.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2008,
+    "Value": 3.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2006,
+    "Value": 3.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2004,
+    "Value": 5.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2002,
+    "Value": 5.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Maldives",
+    "TimePeriod": 2016,
+    "Value": 8.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2009,
+    "Value": 41.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2006,
+    "Value": 41.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2001,
+    "Value": 50.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2014,
+    "Value": 31,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2008,
+    "Value": 42,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2004,
+    "Value": 46.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2000,
+    "Value": 51,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mauritius",
+    "TimePeriod": 2012,
+    "Value": 7.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2016,
+    "Value": 43.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2014,
+    "Value": 46.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2012,
+    "Value": 45.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2010,
+    "Value": 46.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2008,
+    "Value": 44.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Micronesia (Federated States of)",
+    "TimePeriod": 2013,
+    "Value": 41.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Micronesia (Federated States of)",
+    "TimePeriod": 2005,
+    "Value": 29.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2014,
+    "Value": 21.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2012,
+    "Value": 27.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2011,
+    "Value": 33.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2010,
+    "Value": 38.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2015,
+    "Value": 24,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2014,
+    "Value": 24.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2013,
+    "Value": 24.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2012,
+    "Value": 25.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2013,
+    "Value": 4.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2007,
+    "Value": 8.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2000,
+    "Value": 15.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2014,
+    "Value": 46.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2008,
+    "Value": 54.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2002,
+    "Value": 54.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2015,
+    "Value": 32.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2010,
+    "Value": 42.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2005,
+    "Value": 48.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2015,
+    "Value": 17.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2009,
+    "Value": 28.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2003,
+    "Value": 37.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nepal",
+    "TimePeriod": 2010,
+    "Value": 25.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2016,
+    "Value": 24.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2014,
+    "Value": 29.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2009,
+    "Value": 42.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2005,
+    "Value": 48.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2001,
+    "Value": 45.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2014,
+    "Value": 44.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2011,
+    "Value": 48.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2009,
+    "Value": 46,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2003,
+    "Value": 48.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2017,
+    "Value": 22.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2016,
+    "Value": 21.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2015,
+    "Value": 21.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2014,
+    "Value": 22.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2013,
+    "Value": 24.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2012,
+    "Value": 26.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2011,
+    "Value": 26.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2010,
+    "Value": 27,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2015,
+    "Value": 24.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2013,
+    "Value": 29.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2011,
+    "Value": 36.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2010,
+    "Value": 36.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2007,
+    "Value": 44.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2005,
+    "Value": 50.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2004,
+    "Value": 51.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2001,
+    "Value": 64.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Palau",
+    "TimePeriod": 2006,
+    "Value": 24.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2016,
+    "Value": 22.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2015,
+    "Value": 23,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2014,
+    "Value": 25.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2013,
+    "Value": 25.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2012,
+    "Value": 26.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2011,
+    "Value": 27.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2010,
+    "Value": 29.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2009,
+    "Value": 33.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2008,
+    "Value": 33.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Papua New Guinea",
+    "TimePeriod": 2009,
+    "Value": 39.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2017,
+    "Value": 26.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2016,
+    "Value": 28.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2015,
+    "Value": 26.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2014,
+    "Value": 27.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2013,
+    "Value": 28,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2012,
+    "Value": 31.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2011,
+    "Value": 37,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2010,
+    "Value": 39,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2009,
+    "Value": 41.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2008,
+    "Value": 43.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2007,
+    "Value": 45.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2006,
+    "Value": 48.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2005,
+    "Value": 44.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2004,
+    "Value": 48.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2003,
+    "Value": 51.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2002,
+    "Value": 57.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2017,
+    "Value": 21.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2016,
+    "Value": 20.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2015,
+    "Value": 21.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2014,
+    "Value": 22.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2013,
+    "Value": 23.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2012,
+    "Value": 25.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2011,
+    "Value": 27.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2010,
+    "Value": 30.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2009,
+    "Value": 33.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2008,
+    "Value": 37.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2007,
+    "Value": 42.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2006,
+    "Value": 49.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2005,
+    "Value": 55.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2004,
+    "Value": 58.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2015,
+    "Value": 21.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2012,
+    "Value": 25.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2009,
+    "Value": 26.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2006,
+    "Value": 26.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2003,
+    "Value": 24.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2016,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2015,
+    "Value": 17.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2014,
+    "Value": 17.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2013,
+    "Value": 17,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2012,
+    "Value": 17.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2011,
+    "Value": 17.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2010,
+    "Value": 17.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2009,
+    "Value": 17.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2008,
+    "Value": 17.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2007,
+    "Value": 16.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2006,
+    "Value": 17.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2005,
+    "Value": 19.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2004,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2015,
+    "Value": 9.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2014,
+    "Value": 11.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2013,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2012,
+    "Value": 16.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2011,
+    "Value": 17.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2010,
+    "Value": 21.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2009,
+    "Value": 26.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2008,
+    "Value": 26.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2007,
+    "Value": 25.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2006,
+    "Value": 30.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2004,
+    "Value": 26.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2003,
+    "Value": 29,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2002,
+    "Value": 40.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2001,
+    "Value": 54.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2016,
+    "Value": 23.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2015,
+    "Value": 25.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2014,
+    "Value": 25.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2013,
+    "Value": 25.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2012,
+    "Value": 23,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2011,
+    "Value": 22.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2010,
+    "Value": 22.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2009,
+    "Value": 21.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2008,
+    "Value": 22.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2007,
+    "Value": 23.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2006,
+    "Value": 24.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2017,
+    "Value": 13.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2016,
+    "Value": 13.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2015,
+    "Value": 13.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2014,
+    "Value": 11.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2013,
+    "Value": 10.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2012,
+    "Value": 10.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2011,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2010,
+    "Value": 12.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2009,
+    "Value": 13,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2008,
+    "Value": 13.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2007,
+    "Value": 13.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2006,
+    "Value": 15.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2005,
+    "Value": 17.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2004,
+    "Value": 17.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2003,
+    "Value": 20.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2002,
+    "Value": 24.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2000,
+    "Value": 29,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2016,
+    "Value": 38.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Saint Lucia",
+    "TimePeriod": 2016,
+    "Value": 25,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2013,
+    "Value": 20.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2008,
+    "Value": 26.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sao Tome and Principe",
+    "TimePeriod": 2010,
+    "Value": 66.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sao Tome and Principe",
+    "TimePeriod": 2000,
+    "Value": 68.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2011,
+    "Value": 46.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2005,
+    "Value": 48.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2001,
+    "Value": 55.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2016,
+    "Value": 25.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2015,
+    "Value": 25.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2014,
+    "Value": 26.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2013,
+    "Value": 25,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2012,
+    "Value": 24.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Seychelles",
+    "TimePeriod": 2013,
+    "Value": 39.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2011,
+    "Value": 52.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2003,
+    "Value": 66.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2013,
+    "Value": 12.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2012,
+    "Value": 12.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2011,
+    "Value": 13.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2010,
+    "Value": 13,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2009,
+    "Value": 12,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2008,
+    "Value": 11,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2007,
+    "Value": 10.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2006,
+    "Value": 10.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2005,
+    "Value": 11.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2004,
+    "Value": 13.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2014,
+    "Value": 14.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2013,
+    "Value": 14.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2012,
+    "Value": 14.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2011,
+    "Value": 13.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2010,
+    "Value": 13.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2009,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2008,
+    "Value": 11.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2007,
+    "Value": 12.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2006,
+    "Value": 11.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2005,
+    "Value": 11.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2004,
+    "Value": 12.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Solomon Islands",
+    "TimePeriod": 2013,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Solomon Islands",
+    "TimePeriod": 2005,
+    "Value": 22.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2014,
+    "Value": 55.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2010,
+    "Value": 53.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2008,
+    "Value": 62.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2005,
+    "Value": 66.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2016,
+    "Value": 82.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2015,
+    "Value": 65.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2014,
+    "Value": 55.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2012,
+    "Value": 50.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2009,
+    "Value": 50.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2016,
+    "Value": 4.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2012,
+    "Value": 6.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2009,
+    "Value": 8.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2006,
+    "Value": 15.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2002,
+    "Value": 22.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2016,
+    "Value": 29.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2011,
+    "Value": 25.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2010,
+    "Value": 25.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Sudan",
+    "TimePeriod": 2009,
+    "Value": 46.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Syrian Arab Republic",
+    "TimePeriod": 2007,
+    "Value": 35.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Syrian Arab Republic",
+    "TimePeriod": 2004,
+    "Value": 30.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2015,
+    "Value": 31.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2014,
+    "Value": 32,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2013,
+    "Value": 34.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2016,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2015,
+    "Value": 7.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2014,
+    "Value": 10.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2013,
+    "Value": 10.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2012,
+    "Value": 12.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2011,
+    "Value": 13.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2010,
+    "Value": 16.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2009,
+    "Value": 17.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2008,
+    "Value": 20.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2007,
+    "Value": 20,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2006,
+    "Value": 21.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2004,
+    "Value": 26.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2002,
+    "Value": 32.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2000,
+    "Value": 42.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2014,
+    "Value": 41.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2007,
+    "Value": 50.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2001,
+    "Value": 36.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2015,
+    "Value": 55.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2011,
+    "Value": 58.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2006,
+    "Value": 61.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2009,
+    "Value": 22.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2001,
+    "Value": 16.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2015,
+    "Value": 15.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2010,
+    "Value": 20.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2005,
+    "Value": 23.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2000,
+    "Value": 25.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2017,
+    "Value": 13.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2016,
+    "Value": 14.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2015,
+    "Value": 14.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2014,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2013,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2012,
+    "Value": 16.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2011,
+    "Value": 16.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2010,
+    "Value": 16.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2009,
+    "Value": 17.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2008,
+    "Value": 16.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2007,
+    "Value": 16.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2006,
+    "Value": 18.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Tuvalu",
+    "TimePeriod": 2010,
+    "Value": 26.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2016,
+    "Value": 21.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2012,
+    "Value": 19.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2009,
+    "Value": 24.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2005,
+    "Value": 31.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2002,
+    "Value": 38.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2017,
+    "Value": 2.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2016,
+    "Value": 3.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2015,
+    "Value": 6.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2014,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2013,
+    "Value": 8.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2012,
+    "Value": 9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2011,
+    "Value": 7.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2010,
+    "Value": 8.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2009,
+    "Value": 5.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2008,
+    "Value": 7.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2007,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2006,
+    "Value": 49.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2005,
+    "Value": 55.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2004,
+    "Value": 65.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2003,
+    "Value": 76.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2002,
+    "Value": 83.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2011,
+    "Value": 28.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2007,
+    "Value": 34.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2017,
+    "Value": 7.9,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2016,
+    "Value": 9.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2015,
+    "Value": 9.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2014,
+    "Value": 9.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2013,
+    "Value": 11.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2012,
+    "Value": 12.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2011,
+    "Value": 13.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2010,
+    "Value": 18.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2009,
+    "Value": 21,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2008,
+    "Value": 24.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2007,
+    "Value": 29.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2006,
+    "Value": 32.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2013,
+    "Value": 14.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2012,
+    "Value": 15,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Vanuatu",
+    "TimePeriod": 2010,
+    "Value": 12.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2015,
+    "Value": 33.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2014,
+    "Value": 29.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2013,
+    "Value": 29.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2012,
+    "Value": 27.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2011,
+    "Value": 27.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2010,
+    "Value": 26.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2009,
+    "Value": 26.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2008,
+    "Value": 27.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2007,
+    "Value": 27.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2006,
+    "Value": 33.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2005,
+    "Value": 42.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2004,
+    "Value": 53.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2003,
+    "Value": 54,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2002,
+    "Value": 41.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2001,
+    "Value": 31.1,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2000,
+    "Value": 41.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2016,
+    "Value": 9.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2014,
+    "Value": 13.5,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2012,
+    "Value": 17.2,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2014,
+    "Value": 48.6,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2005,
+    "Value": 34.8,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2015,
+    "Value": 54.4,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2010,
+    "Value": 54.7,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Zimbabwe",
+    "TimePeriod": 2011,
+    "Value": 72.3,
+    "[Location]": "ALLAREA"
+  },
+  {
+    "GeoAreaName": "Zimbabwe",
+    "TimePeriod": 2001,
+    "Value": 70.9,
+    "[Location]": "ALLAREA"
+  }
+]
